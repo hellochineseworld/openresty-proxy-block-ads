@@ -5,6 +5,7 @@ a http proxy for ads blocking.
 
 ###
 firefox下设置http proxy .注意ssl代理请留空.
+
 ![](https://github.com/hellochineseworld/openresty-proxy-block-ads/raw/master/docs/firefox-proxy-setting.png) 
 
 ###
