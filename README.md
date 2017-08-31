@@ -1,5 +1,5 @@
 # openresty-proxy-block-ads
-使用openresty(nginx+lua)经过简单的配置来做为http proxy来屏蔽广告的项目. 注意: 不支持https代理.
+使用openresty(nginx+lua)经过简单的配置来做为http proxy达到屏蔽广告的目的. 注意: 不支持https代理.
 
 a http proxy for ads blocking. 
 
