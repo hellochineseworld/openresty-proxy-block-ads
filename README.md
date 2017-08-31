@@ -1,5 +1,11 @@
 # openresty-proxy-block-ads
+使用openresty(nginx+lua)经过简单的配置来做为http proxy来屏蔽广告的项目. 注意: 不支持https代理.
+
 a http proxy for ads blocking. 
+
+###
+firefox下设置http proxy .注意ssl代理请留空.
+![](https://github.com/hellochineseworld/openresty-proxy-block-ads/raw/master/docs/firefox-proxy-setting.png) 
 
 ###
 效果
